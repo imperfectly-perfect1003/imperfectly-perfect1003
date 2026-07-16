@@ -24,7 +24,7 @@ Aspiring AI Engineer | Machine Learning | Deep Learning | Generative AI | Full S
 - 🚀 Building scalable AI-powered applications and real-world software solutions
 - 📚 Continuously learning emerging technologies and industry best practices
 - 🤝 Open to internships, collaborations, and open-source contributions
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **divyamadhurivemana@gmail.com**
 
 ---
 
